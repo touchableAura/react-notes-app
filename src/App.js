@@ -8,22 +8,22 @@ const App = () => {
   const [notes, setNotes] = useState([
     {
       id: nanoid(),
-      text: "This is my first note!",
+      text: "This is my first note! I can add new notes by typing input on the orange note.",
       date: "15/04/2021",
     },
     {
       id: nanoid(),
-      text: "This is my second note!",
+      text: "This is my second note! I can delete notes by selecting the trash can symbol in the bottom right corner of the note.",
       date: "15/05/2021",
     },
     {
       id: nanoid(),
-      text: "This is my third note!",
+      text: "This is my third note! I can search for keywords using the search bar above the notes section.",
       date: "15/06/2021",
     },
     {
       id: nanoid(),
-      text: "This is my new note!",
+      text: "This is my new note! You can toggle dark mode on and off by clicking the Toggle Mode button at the top of the page.",
       date: "15/07/2021",
     },
   ]);
