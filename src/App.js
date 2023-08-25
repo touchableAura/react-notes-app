@@ -4,6 +4,8 @@ import NotesList from "./components/NotesList";
 import Search from './components/Search';
 import Header from './components/Header';
 
+// comment test
+
 const App = () => {
   const [notes, setNotes] = useState([
     {
