@@ -6,3 +6,4 @@ to try in your own code editor:
 3) download dependencies (npm i)
 4) run the program (npm start)
 
+![image](https://github.com/touchableAura/react-notes-app/assets/132860080/4a49958e-ef5e-4b94-869f-f61c4840848b)
